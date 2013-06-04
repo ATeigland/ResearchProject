@@ -41,16 +41,16 @@
   >
 ]>
 <requests version="1.0">
-  <internal package="biblatex" priority="9" active="0">
+  <internal package="biblatex" priority="9" active="1">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>Thesis.aux</file>
-      <file>Thesis-blx.bib</file>
+      <file>Thesis.bcf</file>
     </provides>
     <requires type="dynamic">
       <file>Thesis.bbl</file>
     </requires>
     <requires type="static">
+      <file>blx-dm.def</file>
       <file>blx-compat.def</file>
       <file>biblatex.def</file>
       <file>blx-natbib.def</file>
@@ -62,15 +62,14 @@
       <file>english.lbx</file>
     </requires>
   </internal>
-  <external package="biblatex" priority="5" active="0">
-    <generic>bibtex</generic>
+  <external package="biblatex" priority="5" active="1">
+    <generic>biber</generic>
     <cmdline>
-      <binary>bibtex</binary>
-      <option>-min-crossrefs 2</option>
+      <binary>biber</binary>
       <infile>Thesis</infile>
     </cmdline>
     <input>
-      <file>Thesis.aux</file>
+      <file>Thesis.bcf</file>
     </input>
     <output>
       <file>Thesis.bbl</file>
@@ -79,14 +78,10 @@
       <file>Thesis.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>Thesis.aux</file>
-      <file>Thesis-blx.bib</file>
+      <file>Thesis.bcf</file>
     </requires>
     <requires type="editable">
-      <file>researchproject.bib</file>
-    </requires>
-    <requires type="static">
-      <file>biblatex.bst</file>
+      <file>Researchbib.bib</file>
     </requires>
   </external>
 </requests>

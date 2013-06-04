@@ -10,8 +10,13 @@
 \usepackage{eurosym}
 \usepackage[natbib=true,citestyle=science,bibstyle=numeric,sorting=none,maxnames=4]{biblatex}
 \usepackage[flushleft]{threeparttable}
-
+\usepackage{glossary}
 \bibliography{Researchbib}
+\makeglossary
+
+\glossary{name={MOF}, description={Metal-Organic Framework}}
+
+
 \begin{document}
 \begin{spacing}{1.5}
 \frontmatter
@@ -24,6 +29,8 @@ This is the abstract!
 \include{acknowledgements}
 
 \tableofcontents
+\printglossary
+
 \mainmatter
 \include{introduction}
 \include{theoreticalconsiderations}

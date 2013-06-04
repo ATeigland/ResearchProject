@@ -2,8 +2,14 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1.}Introduction}{1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2.}Theoretical considerations}{2}
+\contentsline {section}{\numberline {1.1}Nanomaterials and nanotechnology}{1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3.}Methods}{3}
+\contentsline {section}{\numberline {1.2}Metal organic frameworks and their applications}{1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4.}Results and discussion}{4}
+\contentsline {section}{\numberline {1.3}Metal organic framework composites}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2.}Theoretical considerations}{4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3.}Methods}{5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4.}Results and discussion}{6}
