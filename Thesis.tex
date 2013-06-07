@@ -10,11 +10,12 @@
 \usepackage{eurosym}
 \usepackage[natbib=true,citestyle=science,bibstyle=numeric,sorting=none,maxnames=4]{biblatex}
 \usepackage[flushleft]{threeparttable}
-\usepackage{glossary}
+\usepackage{glossaries}
 \bibliography{Researchbib}
-\makeglossary
+\makeglossaries
+\makeindex
 
-\glossary{name={MOF}, description={Metal-Organic Framework}}
+\newglossaryentry{name=MOF} {description=Metal-Organic Framework}
 
 
 \begin{document}

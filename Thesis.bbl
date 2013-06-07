@@ -1,0 +1,465 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 1.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{vernemysterious}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Verne}{V.}%
+     {J.}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Plain Label Books}%
+  }
+  \strng{namehash}{VJ1}
+  \strng{fullhash}{VJ1}
+  \field{isbn}{9781603038751}
+  \field{title}{The Mysterious Island}
+\endentry
+
+\entry{Nicoletti95}{article}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Nicoletti}{N.}%
+     {G.}{G.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{NG1}
+  \strng{fullhash}{NG1}
+  \verb{doi}
+  \verb 10.1016/0360-3199(94)00118-J
+  \endverb
+  \field{issn}{0360-3199}
+  \field{number}{10}
+  \field{pages}{759 \bibrangedash  765}
+  \field{title}{The hydrogen option for energy: A review of technical,
+  environmental and economic aspects}
+  \verb{url}
+  \verb http://www.sciencedirect.com/science/article/pii/036031999400118J
+  \endverb
+  \field{volume}{20}
+  \field{journaltitle}{International Journal of Hydrogen Energy}
+  \field{year}{1995}
+\endentry
+
+\entry{VandenBerg08}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Berg}{B.}%
+     {Annemieke W.~C.}{A.~W.~C.}%
+     {van~den}{v.~d.}%
+     {}{}}%
+    {{}%
+     {Arean}{A.}%
+     {Carlos~Otero}{C.~O.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BAWCvdACO1}
+  \strng{fullhash}{BAWCvdACO1}
+  \field{abstract}{%
+  {Storage and transport of hydrogen constitutes a key enabling technology for
+  the advent of a hydrogen-based energy transition. Main research trends on
+  hydrogen storage materials, including metal hydrides, porous adsorbents and
+  hydrogen clathrates, are reviewed with a focus on recent developments and an
+  appraisal of the challenges ahead.}%
+  }
+  \verb{doi}
+  \verb {10.1039/b712576n}
+  \endverb
+  \field{issn}{{1359-7345}}
+  \field{number}{{6}}
+  \field{pages}{{668\bibrangedash 681}}
+  \field{title}{{Materials for hydrogen storage: current research trends and
+  perspectives}}
+  \field{journaltitle}{{CHEMICAL COMMUNICATIONS}}
+  \field{year}{{2008}}
+\endentry
+
+\entry{Garcia12}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Blanco}{B.}%
+     {A.A.~Garc\'{\i}­a}{A.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Vallone}{V.}%
+     {A.F.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gil}{G.}%
+     {A.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Sapag}{S.}%
+     {K.}{K.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{Hydrogen storage}
+  \strng{namehash}{BAGVAGASK1}
+  \strng{fullhash}{BAGVAGASK1}
+  \verb{doi}
+  \verb 10.1016/j.ijhydene.2012.01.166
+  \endverb
+  \field{issn}{0360-3199}
+  \field{note}{Special Issue for the 4th National - 3rd Latin American
+  Conference on Hydrogen and Sustainable Energy Sources (HYFUSEN), 6-9 June
+  2011, Mar Del Plata, Argentina}
+  \field{number}{19}
+  \field{pages}{14870 \bibrangedash  14880}
+  \field{title}{A comparative study of various microporous materials to store
+  hydrogen by physical adsorption}
+  \verb{url}
+  \verb http://www.sciencedirect.com/science/article/pii/S0360319912003114
+  \endverb
+  \field{volume}{37}
+  \field{journaltitle}{International Journal of Hydrogen Energy}
+  \field{year}{2012}
+\endentry
+
+\entry{Cheetham99}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Cheetham}{C.}%
+     {Anthony~K.}{A.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Férey}{F.}%
+     {Gérard}{G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Loiseau}{L.}%
+     {Thierry}{T.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {WILEY-VCH Verlag GmbH}%
+  }
+  \keyw{Host–guest mistry, Microporosity, Solid-state structures, Zeolite
+  analogues, Zeolites}
+  \strng{namehash}{CAKFGLT1}
+  \strng{fullhash}{CAKFGLT1}
+  \field{issn}{1521-3773}
+  \field{number}{22}
+  \field{pages}{3268\bibrangedash 3292}
+  \field{title}{Open-Framework Inorganic Materials}
+  \field{volume}{38}
+  \field{journaltitle}{Angewandte Chemie International Edition}
+  \field{year}{1999}
+\endentry
+
+\entry{Lewis09}{article}{}
+  \name{author}{8}{}{%
+    {{}%
+     {Lewis}{L.}%
+     {Dewi~W.}{D.~W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ruiz-Salvador}{R.-S.}%
+     {A.~Rabdel}{A.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gomez}{G.}%
+     {Ariel}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rodriguez-Albelo}{R.-A.}%
+     {L.~Marleny}{L.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Coudert}{C.}%
+     {Francois-Xavier}{F.-X.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Slater}{S.}%
+     {Ben}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cheetham}{C.}%
+     {Anthony~K.}{A.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mellot-Draznieks}{M.-D.}%
+     {Caroline}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {The Royal Society of Chemistry}%
+  }
+  \strng{namehash}{LDW+1}
+  \strng{fullhash}{LDWRSARGARALMCFXSBCAKMDC1}
+  \field{abstract}{%
+  We use periodic DFT calculations to compute the total energy of known
+  zeolitic imidazole frameworks (ZIFs) together with those of hypothetical
+  porous ZIFs. We show that the total energy of ZIFs decreases with increasing
+  density{,} in a similar fashion to the alumino-silicate zeolites{,} but with
+  a more complex energy landscape. The computational evaluation of the
+  stability of hypothetical ZIFs is useful in the search for viable synthesis
+  targets. Our results suggest that a number of hitherto undiscovered
+  nanoporous topologies should be amenable to synthesis (CAN{,} ATN) and that
+  even the most open framework types might be obtained with appropriately
+  substituted ligands.%
+  }
+  \verb{doi}
+  \verb 10.1039/B912997A
+  \endverb
+  \field{issue}{11}
+  \field{pages}{2272\bibrangedash 2276}
+  \field{title}{Zeolitic imidazole frameworks: structural and energetics trends
+  compared with their zeolite analogues}
+  \verb{url}
+  \verb http://dx.doi.org/10.1039/B912997A
+  \endverb
+  \field{volume}{11}
+  \field{journaltitle}{CrystEngComm}
+  \field{year}{2009}
+\endentry
+
+\entry{Morris12}{article}{}
+  \name{author}{10}{}{%
+    {{}%
+     {Morris}{M.}%
+     {William}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {He}{H.}%
+     {Ning}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ray}{R.}%
+     {Keith~G.}{K.~G.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Klonowski}{K.}%
+     {Peter}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Furukawa}{F.}%
+     {Hiroyasu}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Daniels}{D.}%
+     {Isaak~N.}{I.~N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Houndonougbo}{H.}%
+     {Yao~A.}{Y.~A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Asta}{A.}%
+     {Mark}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Yaghi}{Y.}%
+     {Omar~M.}{O.~M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Laird}{L.}%
+     {Brian~B.}{B.~B.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MW+1}
+  \strng{fullhash}{MWHNRKGKPFHDINHYAAMYOMLBB1}
+  \verb{doi}
+  \verb {10.1021/jp307170a}
+  \endverb
+  \field{issn}{{1932-7447}}
+  \field{number}{{45}}
+  \field{pages}{{24084\bibrangedash 24090}}
+  \field{title}{{A Combined Experimental-Computational Study on the Effect of
+  Topology on Carbon Dioxide Adsorption in Zeolitic Imidazolate Frameworks}}
+  \field{volume}{{116}}
+  \field{journaltitle}{{JOURNAL OF PHYSICAL CHEMISTRY C}}
+  \field{year}{{2012}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Wang03}{article}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Wang}{W.}%
+     {YT}{Y.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zhu}{Z.}%
+     {JZ}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zhu}{Z.}%
+     {RJ}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Zhu}{Z.}%
+     {ZQ}{Z.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lai}{L.}%
+     {ZS}{Z.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chen}{C.}%
+     {ZY}{Z.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{WY+1}
+  \strng{fullhash}{WYZJZRZZLZCZ1}
+  \verb{doi}
+  \verb {10.1088/0957-0233/14/6/317}
+  \endverb
+  \field{issn}{{0957-0233}}
+  \field{number}{{6}}
+  \field{pages}{{831\bibrangedash 836}}
+  \field{title}{{Chitosan/Prussian blue-based biosensors}}
+  \field{volume}{{14}}
+  \field{journaltitle}{{MEASUREMENT SCIENCE \& TECHNOLOGY}}
+  \field{year}{{2003}}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{Phan10}{article}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Phan}{P.}%
+     {Anh}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Doonan}{D.}%
+     {Christian~J.}{C.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Uribe-Romo}{U.-R.}%
+     {Fernando~J.}{F.~J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Knobler}{K.}%
+     {Carolyn~B.}{C.~B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {O’Keeffe}{O.}%
+     {Michael}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Yaghi}{Y.}%
+     {Omar~M.}{O.~M.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PA+1}
+  \strng{fullhash}{PADCJURFJKCBOMYOM1}
+  \field{abstract}{%
+  Zeolites are one of humanity’s most important synthetic products. These
+  aluminosilicate-based materials represent a large segment of the global
+  economy. Indeed, the value of zeolites used in petroleum refining as
+  catalysts and in detergents as water softeners is estimated at $350 billion
+  per year. A major current goal in zeolite chemistry is to create a structure
+  in which metal ions and functionalizable organic units make up an integral
+  part of the framework. Such a structure, by virtue of the flexibility with
+  which metal ions and organic moieties can be varied, is viewed as a key to
+  further improving zeolite properties and accessing new applications.
+  Recently, it was recognized that the Si−O−Si preferred angle in zeolites
+  (145°) is coincident with that of the bridging angle in the M−Im−M
+  fragment (where M is Zn or Co and Im is imidazolate), and therefore it should
+  be possible to make new zeolitic imidazolate frameworks (ZIFs) with
+  topologies based on those of tetrahedral zeolites. This idea was successful
+  and proved to be quite fruitful; within the last 5 years over 90 new ZIF
+  structures have been reported. The recent application of high-throughput
+  synthesis and characterization of ZIFs has expanded this structure space
+  significantly: it is now possible to make ZIFs with topologies previously
+  unknown in zeolites, in addition to mimicking known structures. In this
+  Account, we describe the general preparation of crystalline ZIFs, discussing
+  the methods that have been developed to create and analyze the variety of
+  materials afforded. We include a comprehensive list of all known ZIFs,
+  including structure, topology, and pore metrics. We also examine how
+  complexity might be introduced into new structures, highlighting how
+  link−link interactions might be exploited to effect particular cage sizes,
+  create polarity variations between pores, or adjust framework robustness, for
+  example. The chemical and thermal stability of ZIFs permit many applications,
+  such as the capture of CO2 and its selective separation from industrially
+  relevant gas mixtures. Currently, ZIFs are the best porous materials for the
+  selective capture of CO2; furthermore, they show exceptionally high capacity
+  for CO2 among adsorbents operating by physisorption. The stability of ZIFs
+  has also enabled organic transformations to be carried out on the crystals,
+  yielding covalently functionalized isoreticular structures wherein the
+  topology, crystallinity, and porosity of the ZIF structure are maintained
+  throughout the reaction process. These reactions, being carried out on
+  macroscopic crystals that behave as single molecules, have enabled the
+  realization of the chemist’s dream of using “crystals as molecules”,
+  opening the way for the application of the extensive library of organic
+  reactions to the functionalization of useful extended porous structures.%
+  }
+  \verb{doi}
+  \verb 10.1021/ar900116g
+  \endverb
+  \verb{eprint}
+  \verb http://pubs.acs.org/doi/pdf/10.1021/ar900116g
+  \endverb
+  \field{note}{PMID: 19877580}
+  \field{number}{1}
+  \field{pages}{58\bibrangedash 67}
+  \field{title}{Synthesis, Structure, and Carbon Dioxide Capture Properties of
+  Zeolitic Imidazolate Frameworks}
+  \verb{url}
+  \verb http://pubs.acs.org/doi/abs/10.1021/ar900116g
+  \endverb
+  \field{volume}{43}
+  \field{journaltitle}{Accounts of Chemical Research}
+  \field{year}{2010}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

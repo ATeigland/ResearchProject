@@ -1,10 +1,17 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: Thesis.aux
+The style file: biblatex.bst
 A level-1 auxiliary file: acknowledgements.aux
 A level-1 auxiliary file: introduction.aux
 A level-1 auxiliary file: theoreticalconsiderations.aux
 A level-1 auxiliary file: methods.aux
 A level-1 auxiliary file: resultsanddiscussion.aux
-I found no \citation commands---while reading file Thesis.aux
-I found no \bibdata command---while reading file Thesis.aux
-I found no \bibstyle command---while reading file Thesis.aux
-(There were 3 error messages)
+Database file #1: Thesis-blx.bib
+Database file #2: Researchbib.bib
+Warning--I'm ignoring Garcia12's extra "keywords" field
+--line 184 of file Researchbib.bib
+Warning--I'm ignoring Garcia12's extra "keywords" field
+--line 185 of file Researchbib.bib
+Warning--I'm ignoring Garcia12's extra "keywords" field
+--line 187 of file Researchbib.bib
+Biblatex version: 1.7
+(There were 3 warnings)
